@@ -1,0 +1,21 @@
+Создаём файл
+Calculate.java
+Пишем код:
+
+public class Calculate {
+	public static void main(String[] arg) {
+		System.out.println("Calculate...");
+	}	
+}
+
+Открываем консоль
+Компилируем файл Calculate.java
+C:\projects\java-courses>javac Calculate.java
+
+Поверяем работу откомпилированного файла, выполняем файл
+C:\projects\java-courses>java Calculate
+Calculate...
+
+Добавляем на GitHab.
+
+
